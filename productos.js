@@ -21,7 +21,7 @@ En todos los casos se debe mostrar por consola el resultado obtenido.
 
 
 //3.Definir un array con seis productos de electro
-const productos = ['Heladera', 'Lavarropas', 'Microondas', 'Cocina', 'Aspiradora', 'Licuadora'];
+let productos = ['Heladera', 'Lavarropas', 'Microondas', 'Cocina', 'Aspiradora', 'Licuadora'];
 
 //4.Ejecutar sobre el array las siguientes acciones
 //a.Acceder de manera arbitraria a diferentes elementos del array
